@@ -116,6 +116,12 @@ const App = () => {
                 ones sugar intake.
               </p>
             </div>
+              <p>There are also hereditary factors that may affect the rate of
+                weight gain/loss. For some people even a lot of exercise and healthy
+                eating might not be enough to improve their BMI due to the genes they
+                inherited from their parents. Medications may help with weight gain/loss
+                but it's not recommended unless prescribed by their doctor.
+              </p>
             <div>
               <p>As noted, the BMI value is different for everyone based on their
                 weight and height, taller users of 200 lbs have a different Bmi
